@@ -98,7 +98,8 @@
       "secondary-color-hover": "#E7E7E7",
       "secondary-color-pressed": "#E7E7E7",
       "link-color": "#6E5BFF",
-      "link-color-hover": "",
+      "link-color-hover": "#7967FF",
+      "link-color-pressed": "#7967FF",
       "accent1-color": "#F04F5F",
       "accent1-color-hover": "#D43F57",
       "accent1-color-pressed": "#D43F57",
@@ -171,7 +172,10 @@
       "basic-color-hover": "#362E79",
       "basic-color-pressed": "#362E79",
       "background-hover-color": "#E7E7E7",
-      "basic-border-color": "#E7E7E7"
+      "basic-border-color": "#E7E7E7",
+      "tile-bg-color": "#3B346D",
+      "tile-bg-color-hover": "#362E79",
+      "tile-bg-color-pressed": "#362E79"
     }
   }
 ]
