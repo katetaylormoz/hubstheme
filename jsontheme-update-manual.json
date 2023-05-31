@@ -6,7 +6,7 @@
     "variables": {
       "loading-screen-background": "radial-gradient(100% 160.26% at 100% 50%, #EBEBEB 0%, #FFFFFF 46.87%, #EBEBEB 100%)",
       "primary-color": "#1700C7",
-      "primary-color-hover": "#170696",
+      "primary-color-hover": "#170697",
       "secondary-color": "#FFFFFF",
       "secondary-color-hover": "#E7E7E7",
       "secondary-color-pressed": "#E7E7E7",
